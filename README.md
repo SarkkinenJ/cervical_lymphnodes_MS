@@ -3,8 +3,6 @@ Following summarizes the analysis steps used in the manuscript "Deep cervical ly
 
 The main data analysis including scRNAseq, CITE-seq, and TCR- and BCR-analysis is described here:
 
-TCR-analysis using TCRGP is presented here:
-
 Intercellular communication analysis using NicheNet is described here:
 
 

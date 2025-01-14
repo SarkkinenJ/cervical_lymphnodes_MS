@@ -5,20 +5,20 @@ The main data analysis scripts and the analysis workflow used in the study inclu
 
 ## scRNAseq analysis
 1. Preprocess and analyze individual scRNAseq samples (single_sample_analysis):
-  - Basic analysis using the Seurat clustering workflow (QC, dimensionality reduction, clustering)
-  - Automatic cell annotation using singleR
+   - Basic analysis using the Seurat clustering workflow (QC, dimensionality reduction, clustering)
+   - Automatic cell annotation using singleR
 
 2. Merge or integrate the individual scRNAseq samples (merge_multiple_samples): 
-  - Merge samples into one Seurat object for analysis
-  - Integrate samples into one Seurat object for analysis
+   - Merge samples into one Seurat object for analysis
+   - Integrate samples into one Seurat object for analysis
 
 3. Perform visual batch effect evaluation, group-wise comparison analyses and subclustering:
-  - Evaluation of batch effect
-  - Annotation of cells guided by CiteSeq data and manual inspection
-  - Cell type differential Abundance and differential expression analysis (Pseudobulk and single cell DE)
-  - B cell subclustering
-  - CD8 T cell subclustering
-  - 
+   - Evaluation of batch effect
+   - Annotation of cells guided by CiteSeq data and manual inspection
+   - Cell type differential Abundance and differential expression analysis (Pseudobulk and single cell DE)
+   - B cell subclustering
+   - CD8 T cell subclustering
+   - 
   
 ## scTCR and scBCR analysis
 1. TCR and BCR analyses (TCR_BCR_analyses):

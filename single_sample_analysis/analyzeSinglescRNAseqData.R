@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 
-# This runs seurat on a single sample whose 10x filtered data matrix directory (after cellranger count or cellranger multi) is passed via arg 
+# This runs seurat on a single sample whose 10x filtered data matrix directory (after cellranger count or cellranger multi) passed via arg 
 
 library(dplyr)
 library(Seurat)

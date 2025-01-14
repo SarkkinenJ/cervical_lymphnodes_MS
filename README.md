@@ -1,5 +1,5 @@
 # Cervical lymph nodes in MS <br/>
-The following summarizes the analysis steps followed to perform the analysis and produce key results in the manuscript "Deep cervical lymph nodes of patients with multiple sclerosis show dysregulated B cells in the presence of Epstein-Barr virus" by Sarkkinen et al., (submitted).
+The following summarizes the steps used to perform the analysis and produce the key results in the manuscript "Deep cervical lymph nodes of patients with multiple sclerosis show dysregulated B cells in the presence of Epstein-Barr virus" by Sarkkinen et al., (submitted).
 
 Here, the analysis workflow is indicated along with a set of the main scripts used in the the study including for the scRNAseq, CITE-seq, and TCR- and BCR-analyses. To reproduce the key results, obtain the single cell gene expression, TCRseq and BCRseq data for each of the MS and Control sample, or/and the main Seurat objects from EGA (accession number to be provided). Put the obtained Seurat objects in the **data** directory. Then, clone this repository and load the script needed in R, install the necessary R packages if not installed, and follow the steps below, and the comments in the scripts. 
 

@@ -1,0 +1,35 @@
+RNAcluster	Final_Annotation
+0	Naive CD4
+1	Tfh.1
+2	Naive CD8
+3	Naive CD4
+4	Memory B cells
+5	Naive B cells
+6	Naive CD4
+7	Effector CD4
+8	Treg 
+9	Memory CD8
+10	Naive CD4
+11	Intermediate CD4
+12	Tfr
+13	CD4other.1
+14	Naive CD4
+15	CD4other.2
+16	Naive CD4
+17	Plasmablasts
+18	NK cells
+19	Monocytes
+20	NK cells
+21	GC B cells
+22	Tfh.2
+23	GC B cells
+24	Naive CD8
+25	Plasmacytoid DC
+26	Memory B cells
+27	Memory CD8
+28	NK cells
+29	Myeloid
+30	Memory B cells
+31	Myeloid
+32	Erythroblast
+33	Myeloid
